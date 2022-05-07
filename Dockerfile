@@ -1,4 +1,4 @@
 
 FROM nginx:latest
 
-COPY ./app /usr/share/nginx/html/
+COPY ./website /usr/share/nginx/html/
