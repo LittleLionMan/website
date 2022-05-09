@@ -120,6 +120,20 @@ h2 {
     cursor: pointer;
 }
 
+#intro {
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-top: 2em;
+    text-align: left;
+}
+
+#preview {
+    background-image: url("../pics/nothingtosee.jpeg");
+    height: 10em;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 /* footer */
 
 footer {
