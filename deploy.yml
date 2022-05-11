@@ -3,7 +3,7 @@ version: "2.0"
 
 services:
   web:
-    image: knalltuete/website:release-v0.1
+    image: knalltuete/website:release-v0.2
     expose:
       - port: 80
         as: 80
